@@ -1,0 +1,5 @@
+#Cài đặt python và các thư viện dưới đây
+pip install tensorflow numpy streamlit
+
+#cách chạy app
+streamlit run app.py
